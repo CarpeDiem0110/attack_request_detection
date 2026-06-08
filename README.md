@@ -151,9 +151,9 @@ Per-class test results reported by the notebook:
 
 Saved figures:
 
-- Validation comparison across all classical models and feature sets: ![All classical ML validation results](scripts/models_output/all_models_evaluation.png)
-- Best classical model confusion matrices: ![Best classical model confusion matrices](scripts/models_output/best_model_confusion_matrices.png)
-- Best classical model score table: ![Best classical model score table](scripts/models_output/best_model_scores.png)
+- Validation comparison across all classical models and feature sets: ![All classical ML validation results](scripts/models_output/all_ml_models_evaluation.png)
+- Best classical model confusion matrices: ![Best classical model confusion matrices](scripts/models_output/best_ml_model_confusion_matrices.png)
+- Best classical model score table: ![Best classical model score table](scripts/models_output/best_ml_model_scores.png)
 - Handcrafted feature signal summary: ![Handcrafted feature signal](scripts/models_output/handcrafted_feature_signal.png)
 
 ### DistilBERT Results
@@ -185,8 +185,8 @@ These values are transcribed from saved output figures and are presented conserv
 
 Saved figures:
 
-- DistilBERT overall metric snapshot: ![DistilBERT overall results](scripts/models_output/BERT_URL_PARAMETER_OVERALLpng.png)
-- DistilBERT per-class metric snapshot: ![DistilBERT class results](scripts/models_output/DistilBERT_URL_Parameter_Class_Resultspng.png)
+- DistilBERT overall metric snapshot: ![DistilBERT overall results](scripts/models_output/Distil_BERT_URL_PARAMETER_OVERALL.png)
+- DistilBERT per-class metric snapshot: ![DistilBERT class results](scripts/models_output/DistilBERT_URL_Parameter_Class_Results.png)
 - DistilBERT raw confusion matrix: ![DistilBERT raw confusion matrix](scripts/models_output/Distil_BERT_Confusion_Matrix_Raw.png)
 - DistilBERT normalized confusion matrix: ![DistilBERT normalized confusion matrix](scripts/models_output/Distil_BERT_Normalized_Confusion_Matrix.png)
 
